@@ -1,8 +1,8 @@
-# 🚀 OctoCAT Supply Chain: The Ultimate GitHub Copilot Demo
+# 🚀 OctoCAT Supply Chain
 
 ![OctoCAT Supply Chain](./frontend/public/hero.png)
 
-Welcome to the OctoCAT Supply Chain Management System - your go-to demo for showcasing the incredible capabilities of GitHub Copilot, GHAS, and the power of AI-assisted development!
+Welcome to the OctoCAT Supply Chain Management System - where I have showcased the incredible capabilities of GitHub Copilot, GHAS, and the power of AI-assisted development!
 
 ## ✨ What Makes This Demo Special
 
